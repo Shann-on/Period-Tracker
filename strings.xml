@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PeriodTracker-FAQs</string>
+    <string name="question_title_placeholder">Question?</string>
+    <string name="answer_txt_placeholder">Answer.</string>
+    
+    <string-array name="questions_titles">
+        <item>Why do I have a period?</item>
+        <item>What are menstrual cramps?</item>
+        <item>What is PMS?</item>
+        <item>Is my period too heavy?</item>
+        <item>How long should I have my period for?</item>
+        <item>Is my period irregular?</item>
+        <item>Why is my period late?</item>
+        <item>What should I put in a period kit?</item>
+    </string-array>
+    
+    <string-array name="answers">
+        <item>answer to: Why do I have a period?</item>
+        <item>answer to: What are menstrual cramps?</item>
+        <item>answer to: What is PMS?</item>
+        <item>answer to: Is my period too heavy?</item>
+        <item>answer to: How long should I have my period for?</item>
+        <item>answer to: Is my period irregular?</item>
+        <item>answer to: Why is my period late?</item>
+        <item>answer to: What should I put in a period kit?</item>
+    </string-array>
+    
+</resources>
